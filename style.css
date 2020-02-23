@@ -1,0 +1,56 @@
+#logo{
+    width: 70%;
+    padding: 10px;
+}
+.container{
+    margin-bottom: 100px;
+}
+
+.navbar{
+    height: 80px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.nav-item{
+    color: rgb(199, 23, 23);
+    padding-left: 7px;
+    padding-right: 7px;
+    font-family: 'Roboto Condensed';
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.bg-color-1{
+    background-color: lightcyan;
+}
+.bg-color-2{
+    background-color: rgba(255, 191, 182, 0.712);
+}
+.bg-color-3{
+    background-color: rgba(50, 205, 50, 0.568);
+}
+
+.simple-padding-1{
+    padding-left: 10%;
+}
+.simple-padding-2{
+    padding-right: 10%;
+}
+
+.carousel-control-prev-icon{
+    background-color: black;
+}
+.carousel-control-next-icon{
+    background-color: black;
+}
+.margin-left{
+    margin-left: auto !important;
+}
+.nav-item:hover{
+    padding-top: 10px;
+}
