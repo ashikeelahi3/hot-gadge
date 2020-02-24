@@ -74,6 +74,7 @@
     height: 7px;
     width: 12px;
     border-radius: 100px;
+    border: none;
 }
 .carousel-indicators .active{
     background-image: linear-gradient(to left,rgba(255, 177, 93, 0.932) 0%,#FF9C35 100%);
