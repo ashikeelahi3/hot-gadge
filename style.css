@@ -90,7 +90,7 @@
     padding: 10%;
 }
 .card{
-    border-radius: 20px;
+    border-radius: 20px 0px;
     border: none;
     box-shadow: 10px 10px 40px gray;
 }
