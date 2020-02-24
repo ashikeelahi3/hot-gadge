@@ -1,19 +1,24 @@
 #logo{
-    width: 70%;
+    width: 50%;
     padding: 10px;
 }
-.container{
-    margin-bottom: 100px;
+#logo:hover{
+    width: 60%;
 }
+.container{
+    margin-bottom: 150px;
+}
+
 
 .navbar{
     height: 80px;
     border-radius: 15px;
-    background-color: white;
+    background-color: rgba(184, 178, 178, 0.521);
+    border: lightblue 1px solid;
+    margin: 0% 10% ;
 }
 
 .nav-item{
-    color: rgb(199, 23, 23);
     padding-left: 7px;
     padding-right: 7px;
     font-family: 'Roboto Condensed';
@@ -27,12 +32,15 @@
 
 .bg-color-1{
     background-color: lightcyan;
+    border-radius: 15px;
 }
 .bg-color-2{
     background-color: rgba(255, 191, 182, 0.712);
+    border-radius: 15px;
 }
 .bg-color-3{
     background-color: rgba(50, 205, 50, 0.568);
+    border-radius: 15px;
 }
 
 .simple-padding-1{
@@ -44,13 +52,20 @@
 
 .carousel-control-prev-icon{
     background-color: black;
+    border-radius: 10px;
 }
 .carousel-control-next-icon{
     background-color: black;
+    border-radius: 10px;
 }
 .margin-left{
     margin-left: auto !important;
 }
 .nav-item:hover{
     padding-top: 10px;
+}
+
+.carousel-indicators li{
+    background-color: orange;
+    height: 5px;
 }
