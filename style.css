@@ -6,7 +6,7 @@
     width: 60%;
 }
 .container{
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 
 
@@ -68,4 +68,23 @@
 .carousel-indicators li{
     background-color: orange;
     height: 5px;
+}
+.see-all{
+    margin-left: auto !important;
+}
+.card-img-top{
+    padding: 10%;
+}
+.card{
+    border-radius: 20px;
+    border: none;
+    box-shadow: 10px 10px 40px gray;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+}
+.btn-dark{
+    border-radius: 20px;
 }
